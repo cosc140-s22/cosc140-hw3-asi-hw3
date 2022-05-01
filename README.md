@@ -10,5 +10,9 @@
 
 ## Feedback
 
-Once you commit and submit your work to Github, I'll update this section with feedback.
+S
+
+Good work!  The if/else structure in ghost could be improved a bit to reduce the amount of code, and the loop structure could also be improved, but everything works well.  I like the emoji in the responses!
+
+urlchecker all looks good
 
